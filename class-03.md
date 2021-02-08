@@ -200,3 +200,4 @@ Monday
 
 ![Switch statement](https://kindsonthegenius.com/javascript/wp-content/uploads/2019/03/Switch-Statement-Flowchart.jpg)
 
+
