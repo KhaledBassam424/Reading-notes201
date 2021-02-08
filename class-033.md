@@ -199,5 +199,3 @@ The result of day will be:
 Monday
 
 ![Switch statement](https://kindsonthegenius.com/javascript/wp-content/uploads/2019/03/Switch-Statement-Flowchart.jpg)
-
-
