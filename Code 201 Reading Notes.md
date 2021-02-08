@@ -3,7 +3,7 @@ I am khaled dardour, and Iam passionate about programming. and in this page i wi
 | name   |      link      |
 |----------|:-------------:|
 | class01 |  [clickhere](https://khaledbassam424.github.io/Reading-notes201/class01prep) |
-| class02 |  [clickhere]() |
+| class02 |  [clickhere](https://khaledbassam424.github.io/Reading-notes201/class-02) |
 | class03 |  [clickhere]() |
 | class04 |  [clickhere]() |
 | class05 |  [clickhere]() |
