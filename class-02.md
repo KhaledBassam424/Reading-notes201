@@ -4,25 +4,25 @@ appropriate structure for the page.
 
 ** What are the unpopular tags we work with in html language and the function of each of them and mention an example on each of them ? **
 
-1. <b> tag : by enclosing words in the tags <b> and </b> we can make characters appear bold. 
+1. b tag : by enclosing words in the tags <b> and </b> we can make characters appear bold. 
 For example: <p>This is how we make a word appear <b>bold.</b>
 </p>
 
-2. <i> tag : By enclosing words in the tags <i> and </i> we can make characters appear italic.
+2. i tag : By enclosing words in the tags <i> and </i> we can make characters appear italic.
 For example: <p>This is how we make a word appear <i>italic</i>. </p>
 
-3. <sup> tag : is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such
+3. sup tag : is used to contain characters that should be superscript such as the suffixes of dates or mathematical concepts like raising a number to a power such
 as 22.
 
-4. <sub> tag : is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
+4. sub tag : is used to contain characters that should be subscript. It is commonly used with foot notes or chemical formulas such as H20.
 
 For example : <p>The amount of CO<sub>2</sub> in the atmosphere
 grew by 2ppm in 2009<sub>1</sub>.</p>
 
-5. <br /> tag : is used to add a line break inside the
+5. br / tag : is used to add a line break inside the
 middle of a paragraph
 
-6. <hr /> : To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections.
+6. hr / : To create a break between themes — such as a change of topic in a book or a new scene in a play — you can add a horizontal rule between sections.
 
 For example : <p>Venus is the only planet that rotates
 clockwise.</p>
@@ -78,8 +78,8 @@ browser where to find the CSS
 file used to style the page 
  <head>
 <title>Using External CSS</title>
-<link href="css/styles.css" type="text/css"
-rel="stylesheet" />
+`<link href="css/styles.css" type="text/css"
+rel="stylesheet" />`
 </head>
 <body> 
 
@@ -87,10 +87,10 @@ rel="stylesheet" />
 within an HTML page by placing
 them inside a <style> element,
 which usually sits inside the
-<head> element of the page   
+`<head>` element of the page   
 
-  <head>
-<title>Using Internal CSS</title>
+  `<head>`
+ `<title>` Using Internal CSS `</title>`
 <style type="text/css">
 body {
 font-family: arial;
@@ -100,7 +100,7 @@ color: rgb(255,255,255);}
 </style>
 
 
-3. inline styling   <p style="color: red; background-color: gray"> 
+3. inline styling   `<p style="color: red; background-color: gray">` 
 
 ** declaring a variable **
 we should announce that we want to use a specific variable by declaring it.
