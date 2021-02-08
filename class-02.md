@@ -1,8 +1,8 @@
-**Why we add tags to the contents of the page? **
+** Why we add tags to the contents of the page? **
 Those tags provide extra meaning allow browsers to show users the
 appropriate structure for the page.
 
-** What are the unpopular tags we work with in html language and the function of each of them and mention an example on each of them ?**
+** What are the unpopular tags we work with in html language and the function of each of them and mention an example on each of them ? **
 
 1. <b> tag : by enclosing words in the tags <b> and </b> we can make characters appear bold. 
 For example: <p>This is how we make a word appear <b>bold.</b>
@@ -40,7 +40,7 @@ Each individual instruction or step is known as a statement.
 Statements should end with a semicolon.  |
 
 
-** what are the main semantic markup tags**
+** what are the main semantic markup tags **
 
 1. <strong> tag : The use of the <strong> element indicates that its content has strong importance. For example, the words contained in this element might
 be said with strong emphasis. For example
@@ -51,7 +51,7 @@ the meaning of a sentence.
 For example : <p>I <em>think</em> Ivy was the first.</p>
 
 
-** What are the main idea behind usage of css ?**
+** What are the main idea behind usage of css ?  ** 
 CSS allows you to create rules that control the way that each individual box (and the contents of that box) is presented.
 
 CSS works by associating rules with HTML elements. These rules govern
@@ -70,23 +70,26 @@ For example: h1, h2 ,h3{
 
 }
 
-**How we can connect css to html page?** 
-| method   |      details  |   example    |     
-|----------|:-------------:|------:|
-| Using External CSS, <link> tag |  The <link> element can be used
+** How we can connect css to html page? ** 
+
+ 1. Using External CSS, <link> tag :  The <link> element can be used
 in an HTML document to tell the
 browser where to find the CSS
-file used to style the page | <head>
+file used to style the page 
+ <head>
 <title>Using External CSS</title>
 <link href="css/styles.css" type="text/css"
 rel="stylesheet" />
 </head>
-<body> |
-| Usi ng Internal CSS, <style> tag |    You can also include CSS rules
+<body> 
+
+ 2. Using Internal CSS, <style> tag : You can also include CSS rules
 within an HTML page by placing
 them inside a <style> element,
 which usually sits inside the
-<head> element of the page   |  <head>
+<head> element of the page   
+
+  <head>
 <title>Using Internal CSS</title>
 <style type="text/css">
 body {
@@ -94,18 +97,20 @@ font-family: arial;
 background-color: rgb(185,179,175);}
 h1 {
 color: rgb(255,255,255);}
-</style> |
-| inline styling  | <p style="color: red; background-color: gray"> |
+</style>
 
-** declaring a variable**
+
+3. inline styling   <p style="color: red; background-color: gray"> 
+
+** declaring a variable **
 we should announce that we want to use a specific variable by declaring it.
 
 var quantity:
 
-**how to assign a value to the variable**
+** how to assign a value to the variable **
 quantity = 3:
  
- ** creating an array in java script**
+ ** creating an array in java script **
  II Create the array
 var colors = ['white',
 'black' ,
