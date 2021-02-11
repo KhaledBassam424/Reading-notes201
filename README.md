@@ -7,7 +7,7 @@ I am khaled dardour, and Iam passionate about programming. and in this page i wi
 | class02 |  [clickhere](https://khaledbassam424.github.io/Reading-notes201/class-02) |
 | class03 |  [clickhere](https://khaledbassam424.github.io/Reading-notes201/class-033) |
 | class04 |  [clickhere](https://khaledbassam424.github.io/Reading-notes201/class-04) |
-| class05 |  [clickhere]() |
+| class05 |  [clickhere](https://khaledbassam424.github.io/Reading-notes201/class-05) |
 | class06 |  [clickhere]() |
 | class07 |  [clickhere]() |
 | class08 |  [clickhere]() |
